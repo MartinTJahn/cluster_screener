@@ -2,4 +2,4 @@
 
 Script to calculate majority taxonomy of Lima-Mendez clusters: ClstrScrnR.py
 
-Example study dataset: clusters.genome.mci.I14 
+Example dataset that was used in study: clusters.genome.mci.I14 
